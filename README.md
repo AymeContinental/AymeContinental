@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Johan Ayme Nina!
 
-🎓 Estudiante de Ingeniería de Sistemas e Informática en la Universidad Continental.  
+🎓 Estudiante del Noveno Semestre de Ingeniería de Sistemas e Informática en la Universidad Continental.  
 💻 Apasionado por el análisis de datos, IA y ciberseguridad.  
 🚀 En aprendizaje continuo y desarrollo de proyectos de Data Science.  
 
